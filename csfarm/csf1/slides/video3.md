@@ -58,7 +58,7 @@ Inhalt:
 - Open Source ERP mit Webseite, Online Shop u.a.
 - kann selbst betrieben werden 
 - Zielgruppe: Unternehmen, Vereine
-- de.libretranslate.com
+- www.odoo.com/de_DE
 
 ---
 # Überblick

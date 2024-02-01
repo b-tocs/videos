@@ -84,7 +84,7 @@ Kriterien:
 Aktueller Stand:
 - Server konfiguriert
 - Portainer ist einsatzbereit
-- Backup, Update und Reboot wurde getestet
+
 
 Nächster Schritt:
 - Einführung Portainer
