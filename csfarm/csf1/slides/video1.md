@@ -32,6 +32,10 @@ Inhalt:
 - Installation Podman + Portainer
 
 ---
+# Linux Terminal
+![height:450px ](res/terminal_ui.gif)
+
+---
 # Überblick
 ![height:500px ](res/mermaid-diagram.png)
 
