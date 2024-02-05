@@ -34,6 +34,10 @@ Inhalt:
 
 
 ---
+# Aktuell offene Ports
+![height:480px ](res/portainer_open_ports.gif)
+
+---
 # Angreifersicht
 ![height:500px ](res/attackers_view.png)
 
@@ -53,9 +57,10 @@ Inhalt:
 
 Weitere Maßnahmen:
 - Podman rootless
-- Sudo users statt root
-- SSH: statt Passwörtern - RSA Keys
+- Sudo Benutzer statt root
+- SSH mit Public Key statt Passwörter
 - Interne und externe Firewalls
+- Alternative Stacks (statt DPP)...
 
 ---
 # Geschafft!
