@@ -21,16 +21,21 @@ Inhalt:
 5. Weitere Hinweise
 
 ---
-# Teil 3 - Container Stacks
+# Teil 4 - Security
 #### CSF1: DPP - Debian, Podman, Portainer  
 
 
 Inhalt:
+- Grundsätzliches
+- Stack Ports deaktivieren
+- Reverse Proxy mit NginxPM
+- Zugriffslisten
+- HTTPS/SSL
 
 
 ---
-# Überblick
-![height:500px ](res/mermaid-diagram.png)
+# Angreifersicht
+![height:500px ](res/attackers_view.png)
 
 
 ---
@@ -40,6 +45,17 @@ Inhalt:
 - Schritte unter 4 abarbeiten
 
 ![bg left height:5in](res/github_repo.gif)
+
+---
+# Teil 4 - Security
+#### CSF1: DPP - Debian, Podman, Portainer  
+
+
+Weitere Maßnahmen:
+- Podman rootless
+- Sudo users statt root
+- SSH: statt Passwörtern - RSA Keys
+- Interne und externe Firewalls
 
 ---
 # Geschafft!
