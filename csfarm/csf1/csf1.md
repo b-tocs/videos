@@ -2,21 +2,19 @@
 
 ## Videoreihe
 
-| Video                         | Länge | Slides                                                                            |
-| ---                           | ---   | ---                                                                               |
-| Überbllick                    | 04:06 | [MD](slides/video0.md), [PDF](slides/video0.pdf), [HTML](slides/video0.html)      |
-| Teil 1 - Installation         | 12:14 | [MD](slides/video1.md), [PDF](slides/video1.pdf), [HTML](slides/video1.html)      |
-| Teil 1 - Portainer            | 19:37 | [MD](slides/video2.md), [PDF](slides/video2.pdf), [HTML](slides/video2.html)      |
-| Teil 3 - Stacks               | 32:10 | [MD](slides/video3.md), [PDF](slides/video3.pdf), [HTML](slides/video3.html)      |
-| Teil 4 - Security             | 27:25 | [MD](slides/video4.md), [PDF](slides/video4.pdf), [HTML](slides/video4.html)      |
-| Teil 5 - Weitere Hinweise     | 01:58 | [MD](slides/video5.md), [PDF](slides/video5.pdf), [HTML](slides/video5.html)      |
-
-
+| Video                         | Länge | Slides                                                                            | Youtube                                   |
+| ---                           | ---   | ---                                                                               | ---                                       |
+| Überbllick                    | 04:06 | [MD](slides/video0.md), [PDF](slides/video0.pdf), [HTML](slides/video0.html)      | [Link](https://youtu.be/pQMxzP7Dptk)      |
+| Teil 1 - Installation         | 12:14 | [MD](slides/video1.md), [PDF](slides/video1.pdf), [HTML](slides/video1.html)      | [Link](https://youtu.be/fq9-Zjbto6U)      |
+| Teil 1 - Portainer            | 19:37 | [MD](slides/video2.md), [PDF](slides/video2.pdf), [HTML](slides/video2.html)      | [Link](https://youtu.be/PXfcnG8PrT4)      |
+| Teil 3 - Stacks               | 32:10 | [MD](slides/video3.md), [PDF](slides/video3.pdf), [HTML](slides/video3.html)      | [Link](https://youtu.be/6CxVlpExPps)      |
+| Teil 4 - Security             | 27:25 | [MD](slides/video4.md), [PDF](slides/video4.pdf), [HTML](slides/video4.html)      | [Link](https://youtu.be/vg_AjCiIj2o)      |
+| Teil 5 - Weitere Hinweise     | 01:58 | [MD](slides/video5.md), [PDF](slides/video5.pdf), [HTML](slides/video5.html)      | [Link](https://youtu.be/3dAtQ_1gt3o)      |
 
 
 ## Videos Description
 
-Diese Videoreihe zeigt, wie man auf Basis Debian 12, Podma und Portainer eine Container Service Farm aufbaut. Also eine Landschaft, in der man beliebige Lösungen installieren kann, die als Container ausgeliefert werden. Das kann dann die Grundlage sein, um privat oder dienstlich, für das (kleine) Unternehmen oder den Verein eigene cloud-native Lösungen zu installieren. 
+Diese Videoreihe zeigt, wie man auf Basis Debian 12, Podman und Portainer eine Container Service Farm aufbaut. Also eine Landschaft, in der man beliebige Lösungen installieren kann, die als Container ausgeliefert werden. Das kann dann die Grundlage sein, um privat oder dienstlich, für das (kleine) Unternehmen oder den Verein eigene cloud-native Lösungen zu installieren. 
 
 In der Reihe wird beispielsweise die Installation von Odoo, einem Open Source ERP mit Homepagebaukasten, Online Shop, CRM und weiteren interessanten Modulen gezeigt. Oder Libretranslate - einem Übersetzungsservice -, der über seine Schnittstellen sogar an SAP Systeme angeschlossen werden kann. 
 
@@ -36,6 +34,9 @@ Links:
 - [Step-By-Step Guides DPP](https://github.com/b-tocs/csf_dpp)
 - [Youtube Kanal](https://www.youtube.com/@B-Tocs)
 - [B-Tocs Community](https://b-tocs.org)
+
+Hashtags:
+#B2X #Debian #Podman #Portainer #Container #Docker #Compose #Stack #Linux #Homepage #Community #SAP #ERP #Odoo
 
 ## Teile
 
@@ -99,6 +100,8 @@ Inhalt:
 
 Links:
 - [Docker Hub](https://hub.docker.com/)
+- [Portainer Webseite](https://www.portainer.io/)
+- [Portainer Container](https://hub.docker.com/r/portainer/portainer-ce)
 
 ### Teil 3 - Stacks
 
@@ -131,6 +134,16 @@ Inhalt:
 30:20   Portainer Review: Images, Volumes, Network
 31:39   Zusammenfassung    
 
+Links:
+- [Portainer Webseite](https://www.portainer.io/)
+- [Portainer Container](https://hub.docker.com/r/portainer/portainer-ce)
+- [Stirling PDF Webseite](https://stirlingtools.com/)
+- [Stirling PDF Container](https://hub.docker.com/r/frooodle/s-pdf)
+- [LibreTranslate Webseite](https://libretranslate.com/)
+- [LibreTranslate Container](https://hub.docker.com/r/libretranslate/libretranslate)
+- [Odoo Webseite](https://www.odoo.com/de_DE)
+- [Odoo Container](https://hub.docker.com/_/odoo)
+
 
 ### Teil 4 - Security
 
@@ -154,9 +167,14 @@ Inhalt:
 24:40   Weitere Hinweise
 26:48   Zusammenfassung
 
-
+Links:
+- [NginxPM Webseite](https://nginxproxymanager.com/)
+- [NginxPM Container](https://hub.docker.com/r/jc21/nginx-proxy-manager)
 
 ### Teil 5 - Weitere Hinweise
+
+In diesem Teil 5 gibt es noch weitere Hinweise zur Reihe und wie es weitergeht. Teil 5 wird ggf. durch weitere Videos ergänzt.
+Welche das sein werden ergibt sich aus dem Feedback zur Videoreihe.
 
 Inhalt:
 00:00   Einleitung
