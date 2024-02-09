@@ -45,14 +45,14 @@ Hashtags:
 In diese Video wird ein Überblick über die Videoreihe und einen kurzer Ausblick auf die verwendeten Tools und Lösungen gegeben.
 
 Inhalt:
-00:00   Einleitung
-01:18   Portainer
-01:43   Stirling PDF
-02:10   LibreTranslate
-02:37   Odoo
-03:04   Nginx Proxy Manager
-03:17   Youtube Kanal
-03:32   Github
+Einleitung 00:00
+Portainer 01:18
+Stirling PDF 01:43
+LibreTranslate 02:10
+Odoo 02:37
+Nginx Proxy Manager 03:04
+Youtube Kanal 03:17
+Github 03:32
 
 
 ### Teil 1 - Installation
